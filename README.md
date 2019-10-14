@@ -1,1 +1,2 @@
 # YahooJapanBlack
+- あくまでも私物
