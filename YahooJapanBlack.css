@@ -1,3 +1,4 @@
+@-moz-document url("https://www.yahoo.co.jp/") {
 /* ページ全体 */
 html{
     background: black;
@@ -19,18 +20,22 @@ html{
 #Masthead {
     display: none;
 }
+
 /* ロゴ部分 */
 ._1mo4G7fxHMqUog3vJGxY2_ {
     background: black;
 }
 /* ロゴの下の検索部分 */
-._1o9PYyvuVafb5hd9eJ9rYX {
-    background-color: black;
-    display: none;
+.cRtrJQ {
+	display:none;
 }
+._1o9PYyvuVafb5hd9eJ9rYX{
+	display:none;
+}
+
 /* 文字色 ロゴの下の検索部分 */
-._1TCzQONRwuX9Joqzy35uo2 {
-	color:white;
+.gIogct {
+	display:none;
 }
 
 /* お知らせ */
@@ -39,9 +44,17 @@ html{
 }
 
 /* 左サイドバー */
-._1glrFPJpWbefWf8qr3k4FU {
-    background: black;
+.sc-htpNat .dumRNy
+{
+    background-color: black;
 }
+.feTxgo {
+    background-color: black;
+}
+.cORcFb {
+	color:white;
+} 
+
 
 /* 右サイドバー */
 /* 名前 */
@@ -52,16 +65,23 @@ html{
 /* 登録情報　button */
 ._2KSAVmekATGu43KySZB31Z {
     background: black;
+    color:white;
 }
 /* メール・Tポイント・PayPay */
-.yMWCYupQNdgppL-NV6sMi {
+.ohzLt {
     background:black;
 }
 ._3KxBQ9kjbz4FI25qkyAiJg{
     background: black;
 }
 /* 日付・天気 */
-._3FCSgIyrLJIkYgN7bq6-R{
+.dQzrbP {
+	background:black;
+}
+.fGcDCO{
+	color:white;
+}
+#Today {
     background: black;
 }
 /* 雨天レーダー */
@@ -89,6 +109,10 @@ html{
 ._1EYwdR4JxrwgpIvWk7vO3f {
     background: black;
 }
+.cLtMfI{
+	color:white;
+}
+
 ._2e8OreFgYIc3gdzYJLKAMA {
     color:white;
 }
@@ -113,6 +137,16 @@ html{
 
 /* 検索ランキング */
 /* タイトル「リアルタイム検索で話題」 */
+.cPiQIc {
+	display:none;
+}
+.fIrkAr{
+    display:none;
+}
+.cXITFa{
+    display:none;
+}
+
 ._1nJ39BFpWaPCIWutB-olO8 {
     color: white;
 }
@@ -128,4 +162,5 @@ html{
 }
 #ultra {
     display: none;
+}
 }
