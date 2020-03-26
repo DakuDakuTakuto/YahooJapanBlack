@@ -1,2 +1,2 @@
 # YahooJapanBlack
-- あくまでも私物
+https://userstyles.org/styles/176286/yahoojapan-black
